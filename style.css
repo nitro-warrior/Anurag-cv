@@ -1,0 +1,28 @@
+/*change backgrund color*/
+body {
+  background-color:#EBFFFA;   /*lightcyan/#FAF7F0/ #C3F8FF/#EFFFFD*/
+}
+
+
+/*change style of hr element*/
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-top-color: grey;
+  border-top-width: 8px;
+  width: 5%;
+}
+
+/*make things circular border radius*/
+img {
+  border-radius: 100%;
+}
+
+/*change text color*/
+h1,h3{
+  color: #71C9CE;
+}
+
+a {
+  text-decoration: none;
+}
